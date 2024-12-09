@@ -1,0 +1,103 @@
+.warna1 {
+  background-color: #ffb200;
+}
+
+.warna2 {
+  background-color: #ffa24c;
+}
+
+.warna3 {
+  background-color: #eb8317;
+}
+
+.warna4 {
+  background-color: #fccd2a;
+}
+
+.banner {
+  height: 80vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url("../image/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 25%;
+}
+
+.highlighted-kategori {
+  height: 250px;
+}
+
+.kategori-bakso {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/bakso.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.kategori-mie {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/mie\ ayam.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.kategori-cemilan {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/cemilan.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.highlighted-kategori a {
+  text-decoration: none;
+  color: white;
+}
+
+.highlighted-kategori a:hover {
+  color: #eb8317;
+}
+
+.text-harga {
+  font-size: 22px;
+  color: #fccd2a;
+}
+
+.image-box {
+  height: 250px;
+}
+
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.content-subscribe {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+  color: #fff;
+}
+
+.banner2 {
+  height: 45vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url("../image/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.list-group a {
+  text-decoration: none;
+}
+
+.produk-terkait-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
